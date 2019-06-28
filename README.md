@@ -28,3 +28,6 @@ LTPR has hosted several fun programming workshops in partnership with the follow
 ## About Arduboy
 
 [Arduboy](https://arduboy.com/) is a credit card sized game system that is completely self-contained and fits in your pocket. It can play classic 8-bit games and reprogrammed from a library of open source games available online. Arduboy is open source and enables users to learn programming and create their own games.
+
+#### Proudly Hosted on GitHub
+[Link!](https://github.githubassets.com/images/icons/emoji/octocat.png)
