@@ -1,17 +1,17 @@
 # Learn-Arduboy
 Introduction to programming using the Arduboy to create simple games
 
-Designed to be a series of six lessons that provides a fun and entertaining 
-introduction to programming using the awesome Arduboy game system. Examples of
-lessons to be developed include:
+*Coming Fall 2019
 
-* **Hello World** - an introduction to the Arduino Integrated Development Environment (IDE), connecting the computer to the Arduboy with an USB cable. To begin the journey, this lesson will include the ever-popular "Hello World" as the very first program and then advance to other variations of displaying text on the screen.
+Designed to be a series of six lessons that provides a fun and entertaining intro to programming using the awesome Arduboy game system. Examples of lessons to be developed include:
 
-* **Eight Ball Magic** - as the next step, the workshop will include a text-based game based on the classic Magic Eight Ball. This simple program demonstrates using an array to store text to display, capture button presses and perform different functions and incorporates bitmaps that are displayed on the screen.
+* **Hello World** - an introduction to the Arduino Integrated Development Environment (IDE) and connecting the computer to the Arduboy with an USB cable. To begin the journey, this lesson will include the ever-popular "Hello World" as the very first program and then advance to other variations of displaying text on the screen.
 
-* **Ardubreakout** - this session will load a popular "breakout" style game to the Arduboy and then step through how the game works and how to make changes to customize the game.
+* **Eight Ball Magic** - as the next step, this lesson will include a text game based on the classic Magic Eight Ball. This simple program demonstrates using an array to store the text to display, capture button presses, code different functions and incorporate bitmaps that are displayed on the screen.
 
-The final three lessons will embark on a journey to create a brand new game, stepping through game design concepts, coding game logic, graphical elements and troubleshooting errors along the way.
+* **Ardubreakout** - this lesson will load a popular "breakout" style game to the Arduboy. Students can then step through how the game works and how to make changes to customize the game.
+
+The final three lessons will embark on a journey to create a brand new game, progressing through game design concepts, coding game logic, graphical elements and troubleshooting errors along the way.
 
 ## About Noke Codes
 
