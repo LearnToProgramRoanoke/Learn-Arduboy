@@ -1,7 +1,7 @@
 # Learn-Arduboy
 Introduction to programming using the Arduboy to create simple games
 
-*Coming Fall 2019
+*Coming Fall 2019*
 
 Designed to be a series of six lessons that provides a fun and entertaining intro to programming using the awesome Arduboy game system. Examples of lessons to be developed include:
 
