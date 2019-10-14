@@ -1,7 +1,11 @@
 # Learn-Arduboy
 Introduction to programming using the Arduboy to create simple games
 
-*Coming Fall 2019*
+*The first two-night workshop is scheduled for October 2019*
+
+**The code and handouts for the first workshop are now available!**
+
+[View on GitHub](https://github.com/LearnToProgramRoanoke/Learn-Arduboy) ![octocat_small](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 Designed to be a series of six lessons that provides a fun and entertaining intro to programming using the awesome Arduboy game system. Examples of lessons to be developed include:
 
