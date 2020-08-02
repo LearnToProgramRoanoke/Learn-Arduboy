@@ -1,7 +1,7 @@
 # Learn-Arduboy
 Introduction to programming using the Arduboy to create simple games
 
-*The first two-night workshop is scheduled for October 2019*
+*The first two-night workshop was held in October 2019*
 
 **The code and handouts for the first workshop are now available!**
 
